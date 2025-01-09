@@ -1,1 +1,8 @@
+body {background-color: cornsilk}
 h1 {font-family: cursive}
+h2 {font-family: veranda, sans-serif}
+h3 {
+  font-family: fantasy;
+  font-style: italic;
+}
+p {font-family: monospace}
